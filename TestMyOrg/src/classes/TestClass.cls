@@ -4,6 +4,7 @@ public with sharing class TestClass {
 	public string newDataD{get;set;}
 	public string newDataDW{get;set;}
 	public string newDatatest{get;set;}
+	public string newDatatestData{get;set;}
 	
 	
     
